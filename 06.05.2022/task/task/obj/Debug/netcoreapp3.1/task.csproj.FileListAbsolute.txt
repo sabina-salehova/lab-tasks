@@ -1,0 +1,14 @@
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\bin\Debug\netcoreapp3.1\task.exe
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\bin\Debug\netcoreapp3.1\task.deps.json
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.json
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.dev.json
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\bin\Debug\netcoreapp3.1\task.dll
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\bin\Debug\netcoreapp3.1\task.pdb
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\obj\Debug\netcoreapp3.1\task.csproj.AssemblyReference.cache
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\obj\Debug\netcoreapp3.1\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfoInputs.cache
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfo.cs
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\obj\Debug\netcoreapp3.1\task.csproj.CoreCompileInputs.cache
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\obj\Debug\netcoreapp3.1\task.dll
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\obj\Debug\netcoreapp3.1\task.pdb
+C:\Users\sabinaas\Desktop\lab-tasks\06.05.2022\task\task\obj\Debug\netcoreapp3.1\task.genruntimeconfig.cache
